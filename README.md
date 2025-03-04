@@ -87,7 +87,7 @@ An interactive and engaging **Financial Literacy Simulator** designed to help us
 ## 📞 Contact & Support
 
 💬 Found a bug? Have suggestions? Reach out!  
-📧 Email: vikaspuri1830@example.com  
+📧 Email: vikaspuri1830@gmail.com  
 🌍 GitHub: [Vikaspuri1830](https://github.com/Vikaspuri1830)
 
 ---
